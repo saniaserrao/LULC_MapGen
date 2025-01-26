@@ -38,7 +38,7 @@ The land use map of Delhi Cantonment, Delhi, India shows that the region is prim
 
 The land use map of of Yukon District of Sikkim,India shows that the region primarily is a Forest with pockets of residential areas.
 
-Interact with the land use maps by navigating to the maps folder.
+Interact with the land use maps by navigating to notebooks/pipeline_3.ipynb and notebooks/pipeline_4.ipynb
 
 
 ![lulc_mapDelhi Cantonment](https://github.com/user-attachments/assets/825eb4c8-eea2-48b1-ab57-ace1fe06bd2c)
