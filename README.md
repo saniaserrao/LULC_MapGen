@@ -34,7 +34,7 @@ The model was trained for 10 epochs with train and validation sets. By the end o
 
 ### Maps
 
-The land use map of Delhi Cantonment, Delhi, India shows that the region is primarily a built-up are with industries and residential area.
+The land use map of Delhi Cantonment, Delhi, India shows that the region is primarily a built-up area with industries and residences.
 
 The land use map of of Yukon District of Sikkim,India shows that the region primarily is a Forest with pockets of residential areas.
 
@@ -45,6 +45,6 @@ Interact with the land use maps by navigating to the maps folder.
 
 ### Maps Evaluation and Conclusion
 
-Manual probing of the maps overlaid on the satellite image reveal that the maps are not entirely accurate. For example, it mistakes highways for rivers and therefore classifies the region to be a River instead of residential/industrial. However, they are still a useful resource in demonstrating the power of CNNs in LULC map generation and can be improved upon to make them suitable geospatial scientists and policy makers in aiding its use in earth observation, climate policy and urban planning .
+Manual probing of the maps overlaid on the satellite image reveal that the maps are not entirely accurate. For example, it mistakes highways for rivers and therefore classifies the region to be a River instead of residential/industrial. However, they are still a useful resource in demonstrating the power of CNNs in LULC map generation and can be improved upon to make them suitable for geospatial scientists and policy makers thereby aiding its use for earth observation, climate policy and urban planning .
 
 
