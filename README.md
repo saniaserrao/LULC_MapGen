@@ -1,4 +1,4 @@
-# Land Use and Land Cover Classification Map Generation usind Deep Learning
+# Land Use and Land Cover Classification Map Generation using Deep Learning
 
 ## Overview
 
